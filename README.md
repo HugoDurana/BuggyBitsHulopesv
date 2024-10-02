@@ -2,7 +2,7 @@
 
 Buggy Bits is source code for a set of .net post mortem (hang, crash, memory) debugging labs.
 
-If you want to test your debugging skills - you can run through the labs by following the instructions on my blog.
+If you want to test your debugging skills - you can run through the labs by following the instructions on Tess Fernandez's blog below.
 
 - [Information and setup instructions](https://www.tessferrandez.com/blog/2008/02/04/debugging-demos-setup-instructions.html)
 - [Lab 1: Performance Issue](https://www.tessferrandez.com/blog/2008/02/04/net-debugging-demos-lab-1.html)
